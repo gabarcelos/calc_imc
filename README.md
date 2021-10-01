@@ -3,5 +3,5 @@
 
 # Calculadora de IMC feita com HTML, CSS E JS.
 
-<a href="https://gabarcelos.github.io/calc-imc/"><img src=".\imc.png"></a>
+<a href="https://gabarcelos.github.io/calc_imc/"><img src=".\imc.png"></a>
 
